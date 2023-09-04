@@ -1,1 +1,1 @@
-Convert FIGMA to HTML/CSS  =>  Site "ProjectsCode"
+Convert FIGMA to HTML/CSS   =>   Site "ProjectsCode"
